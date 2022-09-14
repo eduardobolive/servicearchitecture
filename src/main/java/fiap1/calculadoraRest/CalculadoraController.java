@@ -29,7 +29,6 @@ public class CalculadoraController {
 		if(v2 == 0) {
 			return 0;
 		}
-		
 		return v1 / v2;
 	}
 
